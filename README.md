@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SobanImran22
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning back end developmaent
+- 👋 Hi, I’m @SobanImran22.
+- 👀 I’m interested in frontend development.
+- 🌱 I’m currently learning back end developmaent.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 03004322060
+- 📫 How to reach me 03297950161.
 
 
 <!---
