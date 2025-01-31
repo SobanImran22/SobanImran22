@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @SobanImran22.
 - 👀 I’m interested in Full Stack Web Development.
-- 🌱 I’m currently Full Stack Web Development With AI Developmaent.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently studying Web Development with AI
 - 📫 How to reach me 03297950161.
-- 📫 You Can Also Contact Me Through chohansoban22@gmail.com
+- 📫 You Can Also Contact Me Through info@muhammadsoban.xyz
 
 
 <!---
