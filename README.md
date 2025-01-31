@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SobanImran22.
-- 👀 I’m interested in Full Stack Web Development.
+- 👀 I’m a Full Stack Web Developer.
 - 🌱 I’m currently studying Web Development with AI
 - 📫 How to reach me 03297950161.
 - 📫 You Can Also Contact Me Through info@muhammadsoban.xyz
